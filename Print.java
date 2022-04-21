@@ -124,7 +124,7 @@ public void enter(Print[] opt, Charachter[] user)
 {
 	Scanner sc = new Scanner(System.in);
 	do {
-		System.out.print( "\nPress enter to continue\n");
+		System.out.print( "\nPress any button to continue\n");
 		System.out.print( "Press m for the main menu\n");
 		System.out.print( "-------------------------------------------------------------------------------------------\n");
 		String temp = sc.nextLine();
